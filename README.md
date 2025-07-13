@@ -2,11 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 </div>
 
-<!-- Banner -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SuhaibGhattass21/assets/main/banner.png" width="100%" />
-</div>
-
 <!-- Name and Title -->
 <h1 align="center">
   <img src="https://emojigraph.org/media/twitter/man-technologist_1f468-200d-1f4bb.png" width="40" />
