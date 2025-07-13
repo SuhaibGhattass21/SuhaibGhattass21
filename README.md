@@ -1,6 +1,3 @@
-
-<!-- GitHub Profile README for Suhaib Ghattass -->
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Suhaib%20Ghattass&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Backend%20Developer%20%7C%20System%20Analyst%20%7C%20Database%20Engineer&descAlignY=60&descAlign=50" width="100%"/>
 </div>
@@ -29,43 +26,32 @@ My work is about bridging the gap between software design and real-world functio
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Tech Stack
 
-### 🧠 Core Expertise
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,nextjs,typescript,firebase,mongodb,postgresql,redis,postman,docker,aws,rust,flutter,go,git,github,cpp,flask" />
+</div>
 
-```ts
-Backend:  Node.js · Express · NestJS  
-Database: PostgreSQL · MySQL · MongoDB · Prisma ORM  
-Architecture: Microservices · REST APIs · Domain-Driven Design  
-Tools: Docker · Git · Postman · Redis  
-```
+<details>
+<summary><strong>📦 Backend Development</strong></summary>
 
-### 💾 Focus Areas
+- Microservices Architecture with NestJS
+- RESTful API Design & Authentication
+- Database Modeling & Query Optimization
+- Redis Caching and Job Queues
+- CI/CD with Docker & AWS
 
-- 🧩 Modular monolith and microservices backend systems  
-- 🧮 Relational database design and optimization  
-- 🔍 Event-driven architecture and message queues  
-- 📐 Business logic encapsulation and system thinking  
-- 🛡️ Scalable and secure API design
+</details>
 
----
+<details>
+<summary><strong>⚙️ Systems Programming</strong></summary>
 
-## 🧰 Projects & Contributions
+- Rust for safe concurrent systems
+- Go for high-performance backend services
+- Low-level systems design & memory optimization
+- Distributed systems and event-driven patterns
 
-### ⚙️ Ethereal – Lightweight B2B Platform
-
-> **Tech**: Node.js · PostgreSQL · Prisma · Docker  
-> A SaaS initiative aimed at helping companies streamline internal operations using clean and fast interfaces and highly-optimized backend systems.
-
-### 🛒 JustFood – Cloud Kitchen Backend System
-
-> **Tech**: Express.js · MongoDB · Stripe · JWT  
-> Full backend for a cloud-based kitchen management system with products, categories, reviews, videos, and payment integration. Clean schema and domain service structure.
-
-### 🏭 Inventory Management System
-
-> **Tech**: NestJS · PostgreSQL · RabbitMQ  
-> A warehouse management and supplier tracking system supporting multi-business tenancy, role-based access, and reservation/order syncing.
+</details>
 
 ---
 
