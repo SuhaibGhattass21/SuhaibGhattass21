@@ -1,5 +1,8 @@
+
+<!-- GitHub Profile README for Suhaib Ghattass -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Suhaib%20Ghattass&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Backend%20Developer%20%7C%20System%20Analyst%20%7C%20Database%20Engineer&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://raw.githubusercontent.com/SuhaibGhattass21/assets/main/banner.png" width="100%" />
 </div>
 
 <p align="center">
@@ -18,11 +21,20 @@
 
 ## 👋 Who Am I?
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<table>
+<tr>
+<td width="60%">
 
-I’m **Suhaib Ghattass**, a backend developer and database engineer based in **Egypt** with a sharp eye for **system analysis and design**. As the co-founder of **Ethereal**, I focus on building scalable, maintainable, and well-architected backend systems and cloud-ready infrastructure.
+I'm <strong>Suhaib Ghattass</strong>, a backend developer and database engineer based in <strong>Egypt</strong> with a sharp eye for <strong>system analysis and design</strong>. As the co-founder of <strong>Ethereal</strong>, I focus on building scalable, maintainable, and well-architected backend systems and cloud-ready infrastructure.
 
 My work is about bridging the gap between software design and real-world functionality — whether it's crafting API-first architectures, designing relational schemas, or optimizing complex query flows.
+
+</td>
+<td>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -35,36 +47,43 @@ My work is about bridging the gap between software design and real-world functio
 <details>
 <summary><strong>📦 Backend Development</strong></summary>
 
-- Microservices Architecture with NestJS
-- RESTful API Design & Authentication
-- Database Modeling & Query Optimization
-- Redis Caching and Job Queues
-- CI/CD with Docker & AWS
+- Microservices Architecture with NestJS  
+- RESTful API Design & Authentication  
+- Database Modeling & Query Optimization  
+- Redis Caching and Job Queues  
+- CI/CD with Docker & AWS  
 
 </details>
 
 <details>
 <summary><strong>⚙️ Systems Programming</strong></summary>
 
-- Rust for safe concurrent systems
-- Go for high-performance backend services
-- Low-level systems design & memory optimization
-- Distributed systems and event-driven patterns
+- Rust for safe concurrent systems  
+- Go for high-performance backend services  
+- Low-level systems design & memory optimization  
+- Distributed systems and event-driven patterns  
 
 </details>
 
 ---
 
-## 🌱 What I’m Learning
+## 🚀 Highlight Projects
 
-- Advanced system design patterns  
-- CQRS and event sourcing  
-- Kubernetes and container orchestration  
-- AI-powered database automation
+### 🧩 Ethereal – Lightweight B2B Platform  
+**Tech:** Node.js · PostgreSQL · Prisma · Docker  
+SaaS platform for internal enterprise workflow automation.
+
+### 🍽️ JustFood – Cloud Kitchen Management  
+**Tech:** Express.js · MongoDB · Stripe  
+Full backend managing cloud kitchen operations, feedback, payments, and media.
+
+### 📦 Inventory Management System  
+**Tech:** NestJS · PostgreSQL · RabbitMQ  
+Warehouse and supplier management with multi-tenancy and advanced analytics.
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SuhaibGhattass21&show_icons=true&theme=radical&hide_border=true&rank_icon=github&count_private=true" height="150"/>
