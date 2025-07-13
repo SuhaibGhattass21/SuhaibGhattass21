@@ -47,7 +47,7 @@ My work is about bridging the gap between software design and real-world functio
 ## 🧠 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,nextjs,typescript,mongodb,postgresql,redis,postman,docker,aws,git,github" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,nextjs,typescript,mongodb,postgresql,postman,docker,aws,git,github" />
 </div>
 
 <details>
