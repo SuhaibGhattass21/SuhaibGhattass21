@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 </div>
 
-<!-- Name and Title -->
 <h1 align="center">
   Suhaib Ghattass
 </h1>
@@ -70,22 +69,6 @@ My work is about bridging the gap between software design and real-world functio
 - RESTful & GraphQL APIs with authentication and RBAC 
 
 </details>
-
----
-
-## 🚀 Highlight Projects
-
-### 🧩 Ethereal – Lightweight B2B Platform  
-**Tech:** Node.js · PostgreSQL · Prisma · Docker  
-SaaS platform for internal enterprise workflow automation.
-
-### 🍽️ JustFood – Cloud Kitchen Management  
-**Tech:** Express.js · MongoDB · Stripe  
-Full backend managing cloud kitchen operations, feedback, payments, and media.
-
-### 📦 Inventory Management System  
-**Tech:** NestJS · PostgreSQL · RabbitMQ  
-Warehouse and supplier management with multi-tenancy and advanced analytics.
 
 ---
 
