@@ -1,12 +1,6 @@
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SuhaibGhattass21/assets/main/banner.png" width="100%" />
-</div>
-
 <br/>
 
 <h1 align="center">
-  <img src="https://emojigraph.org/media/twitter/man-technologist_1f468-200d-1f4bb.png" width="40" />
   Suhaib Ghattass
 </h1>
 
