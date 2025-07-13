@@ -39,7 +39,7 @@ My work is about bridging the gap between software design and real-world functio
 ## 🧠 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,nextjs,typescript,firebase,mongodb,postgresql,redis,postman,docker,aws,rust,flutter,go,git,github,cpp,flask" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,nextjs,typescript,mongodb,postgresql,redis,postman,docker,aws,git,github" />
 </div>
 
 <details>
@@ -48,7 +48,6 @@ My work is about bridging the gap between software design and real-world functio
 - Microservices Architecture with NestJS  
 - RESTful API Design & Authentication  
 - Database Modeling & Query Optimization  
-- Redis Caching and Job Queues  
 - CI/CD with Docker & AWS  
 
 </details>
@@ -56,10 +55,10 @@ My work is about bridging the gap between software design and real-world functio
 <details>
 <summary><strong>⚙️ Systems Programming</strong></summary>
 
-- Rust for safe concurrent systems  
-- Go for high-performance backend services  
+- Nest for scalable microservices architecture 
 - Low-level systems design & memory optimization  
-- Distributed systems and event-driven patterns  
+- Distributed systems and event-driven patterns
+- RESTful & GraphQL APIs with authentication and RBAC 
 
 </details>
 
