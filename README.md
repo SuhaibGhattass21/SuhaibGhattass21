@@ -30,9 +30,7 @@ I'm <strong>Suhaib Ghattass</strong>, a backend developer and database engineer 
 My work is about bridging the gap between software design and real-world functionality — whether it's crafting API-first architectures, designing relational schemas, or optimizing complex query flows.
 
 </td>
-<td>
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" />
-</td>
+
 </tr>
 </table>
 
