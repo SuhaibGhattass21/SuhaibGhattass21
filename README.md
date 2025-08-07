@@ -8,7 +8,7 @@
 
 <p align="center">
   <strong>Backend Engineer | Database Architect | Systems Programmer</strong><br/>
-  <em>Crafting scalable systems with clarity, precision, and performance.</em>
+  <em>Crafting scalable systems with clarity, precision and performance.</em>
 </p>
 
 <hr/>
