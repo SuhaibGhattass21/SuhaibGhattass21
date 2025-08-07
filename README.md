@@ -47,7 +47,10 @@ My work is about bridging the gap between software design and real-world functio
 ## 🧠 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,nextjs,typescript,mongodb,postgresql,postman,docker,aws,git,github,dotnet" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,nextjs,typescript,mongodb,postgresql,postman,docker,aws,git,github" />
+  <br />
+<img src="URL_TO_DOTNET_LOGO" alt=".NET" width="40" height="40" /> .NET  
+<img src="URL_TO_EFCORE_LOGO" alt="Entity Framework Core" width="40" height="40" /> EF Core
 </div>
 
 <details>
