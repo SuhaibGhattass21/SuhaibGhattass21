@@ -75,8 +75,7 @@ My work is about bridging the gap between software design and real-world functio
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuhaibGhattass21&show_icons=true&theme=radical&hide_border=true&rank_icon=github&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhaibGhattass21&layout=compact&theme=radical&hide_border=true&langs_count=8" height="150"/>
+
 </div>
 
 ---
